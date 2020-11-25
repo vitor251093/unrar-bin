@@ -3,7 +3,7 @@
 const path = require("path")
 
 function getPath() {
-  if (process.env.USE_SYSTEM_INNOEXTRACT === "true") {
+  if (process.env.USE_SYSTEM_UNRAR === "true") {
     return "unrar"
   }
 

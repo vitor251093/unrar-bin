@@ -1,5 +1,5 @@
 {
-  "name": "innoextract-bin",
+  "name": "unrar-bin",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vitor251093/innoextract-bin.git"
+    "url": "git+https://github.com/vitor251093/unrar-bin.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vitor251093/innoextract-bin/issues"
+    "url": "https://github.com/vitor251093/unrar-bin/issues"
   },
-  "homepage": "https://github.com/vitor251093/innoextract-bin#readme"
+  "homepage": "https://github.com/vitor251093/unrar-bin#readme"
 }
